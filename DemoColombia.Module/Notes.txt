@@ -1,0 +1,7 @@
+﻿
+
+Entiedades
+-Product
+-Invoice (Factura encabezado)
+-Invoide Detail (Detalles de factura)
+-Customer (Cliente)
